@@ -1,4 +1,5 @@
-# Frontend interview roadmap
+# Frontend interview preparation roadmap
+##### v1.0.2 by [alxolr](http://www.alxolr.com)
 >This repository is meant to be my preparation roadmap for a medium to advanced
  frontend interview.
 
@@ -6,7 +7,8 @@
 - #### [Strategy and Psychology](#strategy-and-psychology)
 - #### [Javascript](#javascript)
 - #### [Algorithms](#algorithms)
-
+- #### [Web Services](#web-services-1)
+---
 ### Strategy and Psychology
 > Ideas on how to be mentally prepared and other points of interest that an
 interviewer is looking for and want to see in you.
@@ -16,7 +18,7 @@ interviewer is looking for and want to see in you.
 read the book entirely at least once but as review or fast preparation the
 first 11 chapters (~170 pages). _There are a lot of exercises which you can
  solve and train one of which can easily be on your interview._
-
+---
 ### Javascript
 > A frontend interview without a solid knowledge of javascript is an utopia.
 Best books on the market imo are the `You don't know JavaScript` Series by `Kyle Simpson`.
@@ -37,7 +39,7 @@ Is a good introduction on javascript obscure side._
 
 > After you read all this books start again, and again, each time you will
  miss something.
-
+---
 ### Algorithms
 > It is a bit of conundrum cause in my experience as a frontend engineer
 I rarely need to implement an algorithm, but there are no interviews both front
@@ -52,3 +54,14 @@ biggest rust lay down on algorithms._
 of javascript problems, usually I hang up there when need to train._
 - [ ] [Hackerrank](https://www.hackerrank.com/) - _a better alternative a lot of
 people are saying, did not check._
+---
+### Web Services
+> Even if in front you do not have to build a web service, you must know what are
+they, how they work, and how to handle them.
+
+#### Preparation material (~10 hours)
+
+- [ ] [RESTful best practices](https://github.com/tfredrich/RestApiTutorial.com/raw/master/media/RESTful%20Best%20Practices-v1_2.pdf) -_the most commonly used web service mechanism_
+- [ ] [SOAP](https://www.ibm.com/developerworks/webservices/tutorials/ws-understand-web-services1/ws-understand-web-services1.html) - _lost it's popularity due the complexity_
+- [ ] [XML-RPC](https://www.tutorialspoint.com/xml-rpc/xml_rpc_tutorial.pdf) - _rarely used nowadays_
+- [ ] [GraphQL](http://graphql.org/learn/) -_proposed by facebook devs, very promising technology, they aspire to be the market leaders in the next 5-10 years_
